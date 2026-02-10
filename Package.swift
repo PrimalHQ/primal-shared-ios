@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PrimalShared",
-            url: "https://github.com/PrimalHQ/primal-shared-ios/releases/download/0.1.5/PrimalShared.xcframework.zip",
-            checksum: "3c49314c0947de8f6af4c42f3cd94a915fb8d6a692c718cebd4fc70f6b1ebe88"
+            url: "https://github.com/PrimalHQ/primal-shared-ios/releases/download/0.1.6/PrimalShared.xcframework.zip",
+            checksum: "8886b73ed36cd333def6357e91a5a9b40f12980d8c9924e84d0b1811af3ca679"
         )
     ]
 )
